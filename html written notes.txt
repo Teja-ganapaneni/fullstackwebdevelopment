@@ -1,0 +1,37 @@
+open tag 
+closing tag 
+inner element
+what are  types of element in html
+block level elemnt 
+in line block 
+inline
+
+ rowspan is used to spilt the one row into two row
+
+colspan is used to split the one column into two coloumn
+
+to create a table  we use the <table> tag 
+in it we use 
+<tr> tag 
+<th> for heading
+<td> for data in table
+ in html for unorder list we use the 
+<ul> tag
+ for order list we use the 
+<ol> tag 
+ and in <ol type ="A" start ="10">
+<form> tag is use to 
+enter something like form
+<textarea> is use to create a some text space 
+<label> tag is use to label it 
+<input type = checkbox />
+is  use to type some thing
+<a> tag is use to link the pages 
+frameset tag is use to allocation 
+<frameset>
+01:02:02 time 25/02/2025
+if we want to open a page  by clicking photo
+<a href=""> img src=""/></a>
+ we can use map tag also
+ usemap tag contain the area of the
+ 1:19:41
